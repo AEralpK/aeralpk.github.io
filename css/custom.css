@@ -1,0 +1,60 @@
+/* Select the image element using a more specific class or ID if available */
+img.lazyautosizes,
+img.lazyautosizes.lazyloaded,
+img.lazyautosizes.ls-is-cached {
+  width: 300px !important;  /* Adjust width */
+  height: auto !important;  /* Adjust height to maintain aspect ratio */
+  max-width: 100% !important;  /* Ensure image does not exceed container width */
+}
+
+/* Optionally, you can add a rule to target the container of the image */
+.container img.lazyautosizes {
+  width: 300px !important;  /* Adjust width */
+  height: auto !important;  /* Adjust height to maintain aspect ratio */
+  max-width: 100% !important;  /* Ensure image does not exceed container width */
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.gallery img {
+    width: 200px;
+    height: auto;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: transform 0.3s;
+}
+
+.gallery img:hover {
+    transform: scale(1.05);
+}
+
+.search-highlight {
+    background-color: yellow;
+    color: black;
+    padding: 0.2em; /* Optional: add some padding to make the highlight more visible */
+    border-radius: 0.2em; /* Optional: rounded corners for the highlight */
+}
+
+.video-container {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 aspect ratio */
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  background: #000;
+}
+
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
