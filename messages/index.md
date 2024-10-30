@@ -10,6 +10,22 @@ Happy birthday love of my life :heart::cupid:
   <iframe src="https://www.youtube.com/embed/6rO_rQ-LDKU" frameborder="0" allowfullscreen></iframe>
 </div>
 
+### Aybalıklar :)
+Canımızın içi yavrumuz,
+
+Yollarınız kolaylıkla hayra çıksın,
+
+İşiniz gücünüz hep rast gitsin
+
+Gökte yağsın yerde toplayın, 
+
+Ayağınıza taş, gözünüze yaş değmesin.
+
+Seni çok seven annen ve baban :heart::heart:
+<div class="video-container">
+  <iframe src="https://youtube.com/embed/KLrAQ2NLRJM" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ### İrem
 Aşkilopsilerin bir tanesiiii :heartpulse:
 Şimdi bu mesajı okurken sana sıkı sıkı sarıldığımı hayal et. Öncelikle yeni yaşına ve yeni onluğuna hoş geldin, tatlışko! Seninle yan yana yollarda yürüdüğümüz için çok şanslı hissediyorum. İyi ki sen, sensin! Bu yaşında da kim bilir nasıl sürprizler seni bekliyor, kim bilir birlikte neler neler paylaşacağız. Yeni yaşın kalbinden geçtiği gibi olsun, güzellik! İyi ki doğdun ve iyi ki kalbime en yakınlardansın. Seni çok seviyorum! :tada::cake::confetti_ball:
@@ -51,9 +67,25 @@ Kendimi bulma yolunda karşıma çıkan kadın… yogayla tanışmama vesile ola
   <iframe src="https://youtube.com/embed/wOuidNiLHug" frameborder="0" allowfullscreen></iframe>
 </div>
 
+### Eshani & Simon & Dushka
+<div class="video-container">
+  <iframe src="https://youtube.com/embed/C7SHvEWdT74" frameborder="0" allowfullscreen></iframe>
+</div>
+Blooper from first try
+<div class="gallery">
+    <a href="/images/messages/eshani_dg.jpg" data-lightbox="birthday-gallery" data-title="Sleepy Dushka">
+        <img class="lazyload" src="/images/messages/eshani_dg.jpg" alt="">
+    </a>
+</div>
+
 ### Zeynep Teyze & Ramdan & Fam
 <div class="video-container">
   <iframe src="https://youtube.com/embed/nznz-TAURxg" frameborder="0" allowfullscreen></iframe>
+</div>
+
+### Babaanne
+<div class="video-container">
+  <iframe src="https://youtube.com/embed/MlEJBRK06U4" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ### Yasemin Hala
