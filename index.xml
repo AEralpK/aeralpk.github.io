@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>My Wife&#39;s 30th Birthday</title>
-        <link>https://aeralpk.github.io/</link>
+        <link>https://cansu30.com/</link>
         <description>A website to celebrate my wonderful wife&#39;s 30th birthday</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 04 Aug 2024 21:36:58 &#43;0200</lastBuildDate>
-            <atom:link href="https://aeralpk.github.io/index.xml" rel="self" type="application/rss+xml" />
+            <atom:link href="https://cansu30.com/index.xml" rel="self" type="application/rss+xml" />
         </channel>
 </rss>
