@@ -21,7 +21,7 @@ img.lazyautosizes.ls-is-cached {
 }
 
 .gallery img {
-    width: 200px;
+    width: 150px;
     height: auto;
     border-radius: 8px;
     cursor: pointer;
@@ -41,12 +41,15 @@ img.lazyautosizes.ls-is-cached {
 
 .video-container {
   position: relative;
-  padding-bottom: 56.25%; /* 16:9 aspect ratio */
-  height: 0; 
-  overflow: hidden;
-  width: 100%; /* This can be adjusted as needed */
-  max-width: 550px; /* Set a reasonable max width for larger screens */
-  background: #000;
+  width: 100%; /* Ensure the container fills its parent's width */
+  max-width: 500px; /* Optional: Limits the size on larger screens */
+  background: #000; 
+}
+
+.video-container::before {
+  content: "";
+  display: block;
+  padding-top: 56.25%; /* 16:9 aspect ratio (height / width * 100) */
 }
 
 .video-container iframe,
@@ -57,4 +60,11 @@ img.lazyautosizes.ls-is-cached {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+/* Media query to control width on smaller screens */
+@media (max-width: 600px) {
+  .video-container {
+    max-width: 100%; /* Removes width limitation on smaller screens */
+  }
 }

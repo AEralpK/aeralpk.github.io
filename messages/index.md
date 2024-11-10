@@ -46,6 +46,23 @@ Seni çok seven annen ve baban :heart::heart:
   <iframe src="https://youtube.com/embed/iwXkneALnCE" frameborder="0" allowfullscreen></iframe>
 </div>
 
+### Tuğce
+<div class="video-container">
+  <iframe src="https://youtube.com/embed/FplJ9LR_bIM" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<div class="gallery">
+    <a href="/images/messages/tugce_dg1.jpg" data-lightbox="birthday-gallery" data-title="Eski gunleri yad ederken">
+        <img class="lazyload" src="/images/messages/tugce_dg1.jpg" alt="">
+    </a>
+    <a href="/images/messages/tugce_dg2.jpg" data-lightbox="birthday-gallery" data-title="Eski gunler">
+        <img class="lazyload" src="/images/messages/tugce_dg2.jpg" alt="">
+    </a>
+    <a href="/images/messages/tugce_dg3.jpg" data-lightbox="birthday-gallery" data-title="Eski gunleri yad ederken">
+        <img class="lazyload" src="/images/messages/tugce_dg3.jpg" alt="">
+    </a>
+</div>
+
 ### İrem
 Aşkilopsilerin bir tanesiiii :heartpulse:
 Şimdi bu mesajı okurken sana sıkı sıkı sarıldığımı hayal et. Öncelikle yeni yaşına ve yeni onluğuna hoş geldin, tatlışko! Seninle yan yana yollarda yürüdüğümüz için çok şanslı hissediyorum. İyi ki sen, sensin! Bu yaşında da kim bilir nasıl sürprizler seni bekliyor, kim bilir birlikte neler neler paylaşacağız. Yeni yaşın kalbinden geçtiği gibi olsun, güzellik! İyi ki doğdun ve iyi ki kalbime en yakınlardansın. Seni çok seviyorum! :tada::cake::confetti_ball:
@@ -158,18 +175,12 @@ Blooper from first try
     <a href="/images/messages/gulsen1_dg.jpg" data-lightbox="birthday-gallery" data-title="Gulsen Hala ev ziyareti">
         <img class="lazyload" src="/images/messages/gulsen1_dg.jpg" alt="">
     </a>
-</div>
-<div class="gallery">
     <a href="/images/messages/gulsen2_dg.jpg" data-lightbox="birthday-gallery" data-title="Gulsen Hala ev ziyareti">
         <img class="lazyload" src="/images/messages/gulsen2_dg.jpg" alt="">
     </a>
-</div>
-<div class="gallery">
     <a href="/images/messages/gulsen3_dg.jpg" data-lightbox="birthday-gallery" data-title="Gulsen Hala ev ziyareti">
         <img class="lazyload" src="/images/messages/gulsen3_dg.jpg" alt="">
     </a>
-</div>
-<div class="gallery">
     <a href="/images/messages/gulsen4_dg.jpg" data-lightbox="birthday-gallery" data-title="Gulsen Hala ev ziyareti">
         <img class="lazyload" src="/images/messages/gulsen4_dg.jpg" alt="">
     </a>
