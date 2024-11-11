@@ -123,6 +123,16 @@ Big4 kölelik zamanlarımın en güzel kazanımı beybi, yeni yaşın sana çok 
 ### Umur
 Grupların mayası olarak herkesi birleştiren alerjik ve sevgili arkadaşım, iyi ki Eralp ile tanıştın ve buralara geldin; bu sayede seninle tanışmış oldum. Yeni yaşın ve 30’ların, neşe, mutluluk, sağlık ve sevgiyle dolu olsun. Birbirimize bol bol Harry Potter komikli videoları atıp gülmeye devam edelim. Yaratıcılığın ve sanat zevkin hiç bitmesin. En yakın zamanda, daha güzel bir Halloween partisine korkutucu kostümlerimiz ve Spooky ile gitmek ümidiyle. Seviyorum seni, en kel arkadaşın Umur. :)
 
+### Seren
+<div class="video-container">
+  <iframe src="https://youtube.com/embed/b7C17f3Nw2I" frameborder="0" allowfullscreen></iframe>
+</div>
+
+### Bengisu
+<div class="video-container">
+  <iframe src="https://youtube.com/embed/9lpF5ByJLYY" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ### Gülbin
 Kendimi bulma yolunda karşıma çıkan kadın… yogayla tanışmama vesile olan içtenliği, samimiyeti ve güleryüzüyle kendine hayran bırakan canım arkadaşım.. iyi ki yollarımız kesişmiş ve sen iyi ki doğmuşsun :heart: seni çok seviyorum :pray:
 
